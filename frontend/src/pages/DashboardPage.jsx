@@ -48,11 +48,11 @@ export default function DashboardPage() {
   ];
 
   return (
-<<<<<<< HEAD
+
     <div className="dashboard-page">
-=======
+
     <div>
->>>>>>> 3bc3b564f488d33b18666e41de63c278d5a23a9e
+
       <div style={{ marginBottom: 24 }}>
         <h1 style={{ fontSize: 24, fontWeight: 700 }}>Dashboard</h1>
         <p className="text-muted" style={{ marginTop: 4 }}>
@@ -63,11 +63,11 @@ export default function DashboardPage() {
       {/* ── METRIC CARDS ── */}
       <div className="grid-3" style={{ marginBottom: 28 }}>
         {metricCards.map(({ label, value, icon, color }) => (
-<<<<<<< HEAD
+
           <div key={label} className="card metric-card" style={{ padding: 20 }}>
-=======
+
           <div key={label} className="card" style={{ padding: 20 }}>
->>>>>>> 3bc3b564f488d33b18666e41de63c278d5a23a9e
+
             <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
               <div>
                 <p style={{ fontSize: 13, color: 'var(--text-muted)', marginBottom: 6 }}>{label}</p>
