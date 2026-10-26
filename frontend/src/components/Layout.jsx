@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import { useState } from 'react';
 import { Outlet, NavLink, useLocation } from 'react-router-dom';
 import { getUser, logout } from '../utils/auth';
@@ -133,7 +133,7 @@ export default function Layout() {
       <main style={{ flex: 1, padding: 28, overflow: 'auto' }}>
         <Outlet />
       </main>
->>>>>>> 3bc3b564f488d33b18666e41de63c278d5a23a9e
+
     </div>
   );
 }
