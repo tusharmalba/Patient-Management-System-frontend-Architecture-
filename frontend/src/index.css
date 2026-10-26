@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap');
 
 :root{font-family:'DM Sans',sans-serif;color:#203a45;background:#f3f7f7;font-synthesis:none;text-rendering:optimizeLegibility;-webkit-font-smoothing:antialiased;--primary:#0d9c91;--primary-dark:#087e78;--secondary:#6d8189;--success:#16866e;--danger:#c94d4d;--warning:#b7791f;--bg:#f3f7f7;--surface:#fff;--border:#e3ebeb;--text:#203a45;--text-muted:#819198;--radius:13px;--shadow:0 3px 14px rgba(23,57,68,.045);--shadow-md:0 12px 35px rgba(23,57,68,.09)}
@@ -124,4 +124,4 @@ tr:hover td { background:#f1f5f9; }
 .pagination button:disabled { opacity:.4; cursor:not-allowed; }
 
 @media(max-width:768px) { .grid-2,.grid-3,.grid-4 { grid-template-columns:1fr; } }
->>>>>>> 3bc3b564f488d33b18666e41de63c278d5a23a9e
+
