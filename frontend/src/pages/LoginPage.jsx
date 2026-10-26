@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { useNavigate, Link } from 'react-router-dom';
 import { authAPI } from '../services/api';
 import { saveAuth } from '../utils/auth';
-import './auth.css';
+import '../auth.css';
 
 function BrandMark() {
   return (
